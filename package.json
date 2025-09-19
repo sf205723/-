@@ -1,0 +1,17 @@
+{
+  "name": "java-game-platform",
+  "version": "1.0.0",
+  "description": "基于Java的在线小游戏平台",
+  "main": "main.js",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "build": "echo 'Build complete'"
+  },
+  "keywords": ["java", "games", "platform", "online"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
